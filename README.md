@@ -15,3 +15,13 @@ for which the script will respond.
 
 Also, the script includes a caching feature which will prevent your application from
 exceeding the limits imposed by the Twitter API.
+
+Credits:
+--------
+
+The main part of the code is from Mike Rogers
+http://mikerogers.io/2013/02/25/how-use-twitter-oauth-1-1-javascriptjquery.html
+
+Caching code is mostly from Matt Mombrea
+https://github.com/mombrea/twitter-api-php-cached
+ 
